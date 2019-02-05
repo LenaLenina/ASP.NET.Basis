@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Журнал создания кода/преобразования текста">
+  <MessageClass Name="Message" Label="Сообщение" Option="Показывать информационные сообщения" />
+  <MessageClass Name="Warning" Label="Предупреждение" Option="Показывать предупреждения" />
+  <MessageClass Name="Error" Label="Ошибка" Option="Показывать ошибки" />
+  <MessageClass Name="Property" Label="Свойство" Option="Показывать метаданные" />
+  <MessageClass Name="Diagnostic" Label="Сообщение" Option="Показывать диагностические сообщения" />
+  <Message Timestamp="2018-01-12T23:00:30" Importance="High" Text="Реконструирование запущено." />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::_001_SimpleWebApplication&quot; -  (Package)" />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;UML::_001_SimpleWebApplication::Default&quot; -  (Class)" />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::_001_SimpleWebApplication::Default::btnTest&quot; -  (Property)" />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::_001_SimpleWebApplication::Default::btnTest_Click&quot; -  (Operation)" />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::_001_SimpleWebApplication::Default::btnTest_Click::e&quot; -  (Parameter)" />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::_001_SimpleWebApplication::Default::btnTest_Click::sender&quot; -  (Parameter)" />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::_001_SimpleWebApplication::Default::Default&quot; -  (Operation)" />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::_001_SimpleWebApplication::Default::form1&quot; -  (Property)" />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::_001_SimpleWebApplication::Default::Output&quot; -  (Property)" />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System&quot; -  (Package)" />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System::EventArgs&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System::Object&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System::Web&quot; -  (Package)" />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System::Web::UI&quot; -  (Package)" />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System::Web::UI::HtmlControls&quot; -  (Package)" />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System::Web::UI::HtmlControls::HtmlForm&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System::Web::UI::Page&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System::Web::UI::WebControls&quot; -  (Package)" />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System::Web::UI::WebControls::Button&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System::Web::UI::WebControls::Label&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: UML::_001_SimpleWebApplication::Default в UML::System::Web::UI::Page (Generalization)" />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="High" Text="Полностью реконструировано (1) типов." />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="High" Text="Частично реконструировано (6) типов.  Эти типы не были включены в исходный выбор, поэтому их полные определения не реконструированы.  Данная пустая операция лишь проверила наличие этих типов в модели UML, поскольку они необходимы для полного описания других элементов." />
+  <Message Timestamp="2018-01-12T23:00:31" Importance="High" Text="Операция реконструирования завершена; ошибок: (0), предупреждений: (0)." />
+</Log>
